@@ -1,4 +1,4 @@
-# Trabalho 1 - Lexer 
+# Trabalho 2 - Sintático
 
 Grupo:
 
